@@ -14,3 +14,4 @@ D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-fi
 D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
 D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
 D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache

@@ -5,19 +5,19 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Word Search Puzzles.sln: 670153E67C16D09F51D32BCD5674F284
+Word Search Puzzles.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
-Word Search Puzzles\App.cs: 0B559B0EACD6EB056B037402C5F943C3
+Word Search Puzzles\App.cs: modified
 Word Search Puzzles\Package.appxmanifest: C7C235B562518E61DD1631485FB368A6
 Word Search Puzzles\project.json: 1D02BC64BAC0D041019673A1C4C51737
-Word Search Puzzles\Word Search Puzzles.csproj: DA344E291DBA7D51C0DF618ED7CCFF46
-Word Search Puzzles\Word Search Puzzles.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Word Search Puzzles\Word Search Puzzles.csproj: 945003B79CED0BDCAD4E323996C551DE
+Word Search Puzzles\Word Search Puzzles.csproj.user: modified
 Word Search Puzzles\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 Word Search Puzzles\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
 Word Search Puzzles\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
 Word Search Puzzles\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 Word Search Puzzles\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 Word Search Puzzles\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-Word Search Puzzles\Properties\AssemblyInfo.cs: 801BDA8C64EA5B626D0E6FE57E157B67
+Word Search Puzzles\Properties\AssemblyInfo.cs: modified
 Word Search Puzzles\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
