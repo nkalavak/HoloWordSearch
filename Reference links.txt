@@ -1,6 +1,25 @@
 https://github.com/davesshin/Word-Search-Puzzles
 
-Words:
+Words Master List :
+Horse
+Dinosur
+Iguana
+Spider
+Skeleton
+Universe
+Mars
+Microsoft
+Amazon
+Newton
+Yoga
+Heart
+Kidney
+Brain
+Ear
+Eye
+Lungs
+
+
 Linked to Anime:
 Horse
 Dinosur
@@ -10,7 +29,11 @@ Skeleton
 
 Linked to Web page:
 Universe
-
+Mars
+Microsoft
+Amazon
+Newton
+Yoga
 
 Linked to Images:
 Heart
@@ -36,16 +59,13 @@ Amazon : https://www.amazon.com
 Newton : https://www.youtube.com/watch?v=mn34mnnDnKU
 Yoga : https://www.youtube.com/watch?v=A47zwWsjXgs
 
-Newton:
-
 Images:
 Heart
 Kidney
 Brain
-Drums
-
-
-Circle
+Ear
+Eye
+Lungs
 
 
 
