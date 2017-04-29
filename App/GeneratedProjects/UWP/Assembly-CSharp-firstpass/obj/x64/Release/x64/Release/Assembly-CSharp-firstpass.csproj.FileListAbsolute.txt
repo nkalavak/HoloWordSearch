@@ -1,0 +1,17 @@
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x64\Release\Assembly-CSharp-firstpass.dll
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x64\Release\Assembly-CSharp-firstpass.pdb
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x64\Release\Assembly-CSharp-firstpass.pri
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\Assembly-CSharp-firstpass.dll
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\Assembly-CSharp-firstpass.pdb
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\priconfig.xml
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\priconfig.xml.intermediate
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\layout.resfiles
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\layout.resfiles.intermediate
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\resources.resfiles
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\resources.resfiles.intermediate
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\pri.resfiles
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\pri.resfiles.intermediate
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\qualifiers.txt
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\qualifiers.txt.intermediate
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\MultipleQualifiersPerDimensionFound.txt

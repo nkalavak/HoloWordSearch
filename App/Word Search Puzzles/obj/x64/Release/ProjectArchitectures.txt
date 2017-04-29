@@ -1,0 +1,4 @@
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x64
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x64
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x64
+D:\GitHub\Microsoft-AR-VR-Hackathon\App\Word Search Puzzles\Word Search Puzzles.csproj;x64
