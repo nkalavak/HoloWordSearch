@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{0484d0a2-26d6-4e90-b57a-cd3f9c93b39b}</Project>
+      <Project>{2f2a71bd-f6dd-4f48-b72e-354c7deae9a0}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <Reference Include="UnityEngine">

@@ -1,6 +1,9 @@
-using UnityEngine; using System; 
+using UnityEngine;
+using System; 
 using System.Collections; 
 using System.Collections.Generic;
+using UnityEngine.UI;
+
 
 public class WordSearch : MonoBehaviour {
 	// you may customize these variables in the Unity Inspector however you want
@@ -31,6 +34,12 @@ public class WordSearch : MonoBehaviour {
     private Ray ray;
     private RaycastHit hit;
     private int mark = 0;
+    //Images
+   // public Sprite[] answerSprites;
+
+  //  public GameObject answerImage = new GameObject();
+
+   // public Image img;
 
     private static WordSearch instance;
     public static WordSearch Instance {
@@ -155,6 +164,12 @@ public class WordSearch : MonoBehaviour {
         }
 
         if (correct) {
+            
+
+           // answerSprites = Resources.LoadAll<Sprite>("Results");
+
+           // answerImage.AddComponent<SpriteRenderer>();
+           // answerImage.GetComponent<SpriteRenderer>().sprite = answerSprites[1];
             insertedWords.Remove(selectedString);
             insertedWords.Remove(Reverse(selectedString));
 
