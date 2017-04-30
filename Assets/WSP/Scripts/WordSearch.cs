@@ -35,11 +35,15 @@ public class WordSearch : MonoBehaviour {
     private RaycastHit hit;
     private int mark = 0;
     //Images
-   // public Sprite[] answerSprites;
+    // public Sprite[] answerSprites;
 
-  //  public GameObject answerImage = new GameObject();
+    //  public GameObject answerImage = new GameObject();
 
-   // public Image img;
+    // public Image img;
+
+    public Sprite Ear;
+    public Sprite Eye;
+    public SpriteRenderer spriteRenderer;
 
     private static WordSearch instance;
     public static WordSearch Instance {
@@ -105,6 +109,9 @@ public class WordSearch : MonoBehaviour {
         InsertWords();
         FillRemaining();
         time = Time.time;
+
+
+       // spriteRenderer = GetComponent<SpriteRenderer>();
     }
     private void CenterBG() {
         backgroundObject.transform.position = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width / 2, (Screen.height / 2) + 50, 200));
@@ -164,10 +171,7 @@ public class WordSearch : MonoBehaviour {
         }
 
         if (correct) {
-            
-
            // answerSprites = Resources.LoadAll<Sprite>("Results");
-
            // answerImage.AddComponent<SpriteRenderer>();
            // answerImage.GetComponent<SpriteRenderer>().sprite = answerSprites[1];
             insertedWords.Remove(selectedString);
@@ -178,12 +182,35 @@ public class WordSearch : MonoBehaviour {
 			} else if (word.ContainsKey (Reverse (selectedString))) {
 				insertedWords.Add (Reverse (selectedString), true);
 			}
+            ChangetheDamnSprite(selectedString);
             identified++;
         }
         ready = false;
         selected.Clear();
         selectedString = "";
         correct = false;
+
+        
+    }
+
+    private void ChangetheDamnSprite(string spritename)
+    {
+        if (spritename == "Heart")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            // spriteRenderer.sprite = Heart;
+        }
+        else if (spritename == "eye")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            spriteRenderer.sprite = Eye;
+        }
+        else if (spritename == "ear")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            spriteRenderer.sprite = Ear;
+        }
+        else if (spritename == "Brain")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            //spriteRenderer.sprite = Brain;
+        }
     }
 
     private void InsertWords() {
@@ -301,4 +328,6 @@ public class WordSearch : MonoBehaviour {
         }
         GUILayout.EndVertical();
     }
+
+ 
 }

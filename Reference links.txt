@@ -67,7 +67,8 @@ Ear
 Eye
 Lungs
 
-
+OLD:
+ant;bat;boy;comely;conflate;cynosure;demesne;demure;dog;elision;elixir;eloquent;epiphany;fetching;furtive;gambol;glamour;gossamer;halcyon;imbue;ingenue;inure;lagoon;languor;leisure;lilt;lissome;lithe;love;moiety;murmur;nemesis;offing;opulent;panacea;panoply;penumbra;plethora;pyrrhic;ravel;redolent;riparian;ripple;summery;talisman;umbrella;untoward;vestige;wafture;xanadu;
 
 
 

@@ -1,1 +1,1 @@
-ant;art;bat;cat;dog;ear;eye;log;hugs;hope;ice;kind;mars;msr;nice;owl;sail;swan;yoga;
+apple;bat;ear;eye;fish;goose;horse;ice;
