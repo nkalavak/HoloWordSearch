@@ -73,3 +73,29 @@ Lungs
 
 
 
+void ChangeTheDamnSprite (string spritename)
+{
+    if (spritename== "Heart")// if the spriteRenderer sprite = sprite1 then change to sprite2
+    {
+        spriteRenderer.sprite = Heart;
+    }
+    else if (spritename== "Eye")// if the spriteRenderer sprite = sprite1 then change to sprite2
+    {
+        spriteRenderer.sprite = Eye;
+    }
+else if (spritename== "Ear")// if the spriteRenderer sprite = sprite1 then change to sprite2
+    {
+        spriteRenderer.sprite = Ear;
+    }
+else if (spritename== "Brain")// if the spriteRenderer sprite = sprite1 then change to sprite2
+    {
+        spriteRenderer.sprite = Brain;
+    }
+}
+
+
+void Start ()
+{
+    spriteRenderer = GetComponent<SpriteRenderer>();
+    
+    
