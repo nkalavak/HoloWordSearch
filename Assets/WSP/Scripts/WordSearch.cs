@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 
 public class WordSearch : MonoBehaviour {
+    public Font f;
 	// you may customize these variables in the Unity Inspector however you want
     public bool useWordpool; // 'should we use the wordpool?'
     public TextAsset wordpool; // if true, wordpool will be utilized
@@ -42,7 +43,13 @@ public class WordSearch : MonoBehaviour {
     // public Image img;
 
     public Sprite Ear;
+    public Sprite Heart;
+    public Sprite Kidney;
     public Sprite Eye;
+    public Sprite Brain;
+    public Sprite Lungs;
+
+
     public SpriteRenderer spriteRenderer;
 
     private static WordSearch instance;
@@ -197,7 +204,7 @@ public class WordSearch : MonoBehaviour {
     {
         if (spritename == "Heart")// if the spriteRenderer sprite = sprite1 then change to sprite2
         {
-            // spriteRenderer.sprite = Heart;
+             spriteRenderer.sprite = Heart;
         }
         else if (spritename == "eye")// if the spriteRenderer sprite = sprite1 then change to sprite2
         {
@@ -209,7 +216,15 @@ public class WordSearch : MonoBehaviour {
         }
         else if (spritename == "Brain")// if the spriteRenderer sprite = sprite1 then change to sprite2
         {
-            //spriteRenderer.sprite = Brain;
+            spriteRenderer.sprite = Brain;
+        }
+        else if (spritename == "Kidney")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            spriteRenderer.sprite = Kidney;
+        }
+        else if (spritename == "Lungs")// if the spriteRenderer sprite = sprite1 then change to sprite2
+        {
+            spriteRenderer.sprite = Lungs;
         }
     }
 
@@ -312,6 +327,8 @@ public class WordSearch : MonoBehaviour {
     }
 
     void OnGUI() {
+        GUI.skin.font = f;
+
         GUILayout.BeginVertical();
             GUILayout.BeginHorizontal();
             GUILayout.Label("   Timer: ");
