@@ -9,7 +9,7 @@
     <SolutionConfiguration>Release|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1c777771-6905-4bc3-a094-8062dc6c8ae5</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Dave Shin</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Niveditha Kalavakonda</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\GitHub\Microsoft-AR-VR-Hackathon\App\Word Search Puzzles\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>

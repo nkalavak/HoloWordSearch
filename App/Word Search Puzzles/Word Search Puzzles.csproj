@@ -200,12 +200,12 @@
 
   <ItemGroup>
     <ProjectReference Include="D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{cc07cde3-6e28-4e94-a506-7d213fa1dfa3}</Project>
+      <Project>{6f12f120-5b69-4931-a905-51a06f05952a}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="D:\GitHub\Microsoft-AR-VR-Hackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{1c644bb5-05ed-4772-87ac-0e61c43de5bb}</Project>
+      <Project>{da4ca57f-689f-4a05-bc25-93517ac954f9}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>

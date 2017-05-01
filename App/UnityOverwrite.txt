@@ -5,13 +5,13 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Word Search Puzzles.sln: 18DA46D2208737131A723112AE3FDD6D
+Word Search Puzzles.sln: 364A84D5C7D9953F0917DE62C6CB5A22
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Word Search Puzzles\App.cs: 0B559B0EACD6EB056B037402C5F943C3
-Word Search Puzzles\Package.appxmanifest: C7C235B562518E61DD1631485FB368A6
+Word Search Puzzles\Package.appxmanifest: 125B326CB2A9F3E9E9D82541C5031B21
 Word Search Puzzles\project.json: 1D02BC64BAC0D041019673A1C4C51737
-Word Search Puzzles\Word Search Puzzles.csproj: 77FAE50A31452862FA3268940CC86818
+Word Search Puzzles\Word Search Puzzles.csproj: 01B2F8F749574C718797CFAEA9CD2D90
 Word Search Puzzles\Word Search Puzzles.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 Word Search Puzzles\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 Word Search Puzzles\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
